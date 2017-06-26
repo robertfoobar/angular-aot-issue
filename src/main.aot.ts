@@ -1,5 +1,5 @@
 import { platformBrowser } from '@angular/platform-browser';
-import { AppModuleNgFactory } from './app/app.module.ngFactory'; // should be generated
+import { AppModuleNgFactory } from '../generated/src/app/app.module.ngfactory'; // should be generated
 
 export function main(): Promise<any> {
 

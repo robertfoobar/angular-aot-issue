@@ -36,6 +36,7 @@ coverage.lcov
 build/
 reports/
 www/
+generated
 dist
 *.war
 *.zip
