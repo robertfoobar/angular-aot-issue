@@ -12,6 +12,7 @@
   "scripts": {
     "ngc": "ngc -p ./tsconfig.aot.json --verbose",
     "rimraf": "rimraf",
+    "rollup": "rollup -c rollup-config.ts",
     "typedoc": "typedoc",
     "webpack": "webpack",
     "webpack-dev-server": "webpack-dev-server",
@@ -88,6 +89,10 @@
     "raw-loader": "0.5.1",
     "remap-istanbul": "0.9.5",
     "rimraf": "2.5.2",
+    "rollup": "0.43.0",
+    "rollup-plugin-commonjs": "8.0.2",
+    "rollup-plugin-node-resolve": "3.0.0",
+    "rollup-plugin-uglify": "2.0.1",
     "sass-loader": "6.0.2",
     "source-map-loader": "0.1.5",
     "style-loader": "0.13.1",
