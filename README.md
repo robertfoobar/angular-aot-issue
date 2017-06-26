@@ -1,7 +1,7 @@
 # AOT Migration Repo
 This is in order to reproduce https://github.com/angular/angular/issues/13968
 
-##Setup
+## Setup
 npm install
 
 ## Build JIT mode
