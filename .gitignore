@@ -1,0 +1,46 @@
+# System
+.idea
+.settings
+.Spotlight-V100
+.sublime-grunt.cache
+.TemporaryItems
+.tmp
+.Trashes
+.VolumeIcon.icns
+.vscode
+
+# Tools
+.eyeglass_cache
+.grunt
+.sass-cache
+.tscache
+*.log
+typings
+
+# Node
+node_modules
+npm-debug.log
+
+# Vim tmp files
+*.swp
+*.un~
+
+# CI (e.g. Jenkins)
+reports
+checkstyle-result.xml
+test-results.xml
+coverage.xml
+coverage.lcov
+
+# Build
+build/
+reports/
+www/
+dist
+*.war
+*.zip
+
+src/**/*.js
+src/**/*.js.map
+
+.npm

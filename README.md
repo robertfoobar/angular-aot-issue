@@ -1,5 +1,5 @@
 # AOT Migration Repo
-This is in order to reproduce https://github.com/angular/angular/issues/13968
+This is a JIT vs. AOT playground for an Angular 4 + Webpack 2 project setup without angular-cli. 
 
 ## Setup
 npm install
